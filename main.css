@@ -9,3 +9,36 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+#red {
+border-top-color: #f00;
+}
+#orange {
+border-top-color: #ffa500;
+min-width: 18em;
+min-height: 23em;
+}
+#yellow {
+border-top-color: #ff0;
+min-width: 16em;
+min-height: 21em;
+}
+#green {
+border-top-color: #00bc3f;
+min-width: 14em;
+min-height: 19em;
+}
+#blue {
+border-top-color: #06f;
+min-width: 12em;
+min-height: 17em;
+}
+#indigo {
+border-top-color: #8a2be2;
+min-width: 10em;
+min-height: 15em;
+}
+#violet {
+border-top-color: #d300c9;
+min-width: 8em;
+min-height: 13em;
+}
